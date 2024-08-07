@@ -27,8 +27,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 1
-- **Concepts:** 1,129
+- **Varieties:** 1 (linked to 1 different Glottocodes)
+- **Concepts:** 1,129 (linked to 1,128 different Concepticon concept sets)
 - **Lexemes:** 1,129
 - **Sources:** 1
 - **Synonymy:** 1.00
@@ -42,7 +42,9 @@ Conceptlists in Concepticon:
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
 Kate Lynn Lindsey |  | author, data entry | Author
-Hans-Jörg Bibiko | @Bibiko | patron, code | Maintainer
+Hans-Jörg Bibiko | @Bibiko | patron, code, maintainer | Other
+Frederic Blum | @FredericBlum | maintainer | Editor
+
 
 
 

@@ -1,15 +1,16 @@
 import pathlib
 
 import pylexibank
-from idspy import IDSDataset, IDSEntry
+from idspy import IDSDataset
 
 
 class Dataset(IDSDataset):
     dir = pathlib.Path(__file__).parent
     id = "lindseyende"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
-    def cmd_download(self, args):
-        self.raw_dir.xls2csv("ids_cl_ende_final.xlsx")
+    # def cmd_download(self, _):
+    #     self.raw_dir.xls2csv("ids_cl_ende_final.xlsx")
 
     def cmd_makecldf(self, args):
         glottocode = "ende1235"

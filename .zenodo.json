@@ -8,12 +8,18 @@
     "creators": [
         {
             "name": "Kate Lynn Lindsey"
-        },
-        {
-            "name": "Hans-J\u00f6rg Bibiko"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Hans-J\u00f6rg Bibiko",
+            "type": "Other"
+        },
+        {
+            "name": "Frederic Blum",
+            "type": "Editor"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
